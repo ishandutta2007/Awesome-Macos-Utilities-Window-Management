@@ -1,6 +1,6 @@
 # Awesome-Macos-Utilities-Window-Management
 
-# Top macOS Utilities & Window Management Ecosystem
+## Top macOS Utilities & Window Management Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Window Snapping, Tiling, Launchers & Menu Bar Control*  
