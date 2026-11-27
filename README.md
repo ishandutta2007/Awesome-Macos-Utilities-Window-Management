@@ -10,6 +10,7 @@
   <a href="https://github.com/ishandutta2007/Awesome-Macos-Utilities-Window-Management/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Macos-Utilities-Window-Management?style=social" alt="Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Macos-Utilities-Window-Management/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Macos-Utilities-Window-Management?style=flat-square&color=blue" alt="Issues"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Macos-Utilities-Window-Management/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-green.svg?style=flat-square" alt="License"/></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
 
 > 🚀 **A curated, battle-tested directory of the best macOS utilities, window managers, command launchers, tiling engines, and menu bar managers for Mac power users, developers, and productivity enthusiasts.**
@@ -21,7 +22,9 @@
 - [💼 Commercial & SaaS Platforms](#-commercial--saas-platforms)
 - [⭐ Open-Source GitHub Projects](#-open-source-github-projects)
 - [🛠️ Recommended Workflow Recipes](#️-recommended-workflow-recipes)
+- [💖 Support & Sponsorship](#-support--sponsorship)
 - [🤝 How to Contribute](#-how-to-contribute)
+- [📈 Star History](#-star-history)
 - [⚖️ Disclaimer & Security Notice](#️-disclaimer--security-notice)
 
 ---
@@ -70,7 +73,7 @@ Curated list of community-driven, transparent, and telemetry-free macOS window m
 | **[skhd](https://github.com/koekeishiya/skhd)** | <a href="https://github.com/koekeishiya/skhd/stargazers"><img src="https://img.shields.io/github/stars/koekeishiya/skhd?style=social&color=white" alt="stars"/></a> | ⌨️ Hotkey Daemon | Simple, blazingly fast hotkey daemon for macOS with modal hotkeys and concise DSL syntax. The standard shortcut driver for yabai and CLI setups. |
 | **[ShiftIt](https://github.com/fikovnik/ShiftIt)** | <a href="https://github.com/fikovnik/ShiftIt/stargazers"><img src="https://img.shields.io/github/stars/fikovnik/ShiftIt?style=social&color=white" alt="stars"/></a> | 🪟 Classic Snapper | The classic open-source window organizer that pioneered keyboard-driven quadrant and half-screen positioning on macOS. |
 | **[Phoenix](https://github.com/kasper/phoenix)** | <a href="https://github.com/kasper/phoenix/stargazers"><img src="https://img.shields.io/github/stars/kasper/phoenix?style=social&color=white" alt="stars"/></a> | 📜 Scriptable WM | Ultra-lightweight, customizable macOS window and application manager fully scriptable via modern JavaScript / TypeScript. |
-| **[OmniWM](https://github.com/OmniNull/OmniWM)** | <a href="https://github.com/OmniNull/OmniWM)** | <a href="https://github.com/OmniNull/OmniWM/stargazers"><img src="https://img.shields.io/github/stars/OmniNull/OmniWM?style=social&color=white" alt="stars"/></a> | 🌀 Scrolling & Dwindle WM | Modern tiling window manager tailored for Apple Silicon Macs, implementing Niri-style scrolling containers and Hyprland-style Dwindle binary partitioning. |
+| **[OmniWM](https://github.com/OmniNull/OmniWM)** | <a href="https://github.com/OmniNull/OmniWM/stargazers"><img src="https://img.shields.io/github/stars/OmniNull/OmniWM?style=social&color=white" alt="stars"/></a> | 🌀 Scrolling & Dwindle WM | Modern tiling window manager tailored for Apple Silicon Macs, implementing Niri-style scrolling containers and Hyprland-style Dwindle binary partitioning. |
 | **[BetterShot](https://github.com/KartikLabhshetwar/better-shot)** | <a href="https://github.com/KartikLabhshetwar/better-shot/stargazers"><img src="https://img.shields.io/github/stars/KartikLabhshetwar/better-shot?style=social&color=white" alt="stars"/></a> | 📸 Capture & Annotate | Native SwiftUI screenshot and screen recording tool with 75+ hotkeys, scrolling capture, OCR, video editor, and self-hosted Cloudflare R2 bucket integration. |
 | **[Look](https://github.com/kunkka19xx/look)** | <a href="https://github.com/kunkka19xx/look/stargazers"><img src="https://img.shields.io/github/stars/kunkka19xx/look?style=social&color=white" alt="stars"/></a> | 🔍 Spotlight / Raycast Alt | Privacy-respecting, community-driven cross-platform command palette and quick launcher with local-first indexation and zero telemetry. |
 | **[Ice (cavaldos fork)](https://github.com/cavaldos/Ice)** | <a href="https://github.com/cavaldos/Ice/stargazers"><img src="https://img.shields.io/github/stars/cavaldos/Ice?style=social&color=white" alt="stars"/></a> | 🍸 Menu Bar Extended | Actively maintained fork of Ice featuring extended macOS release compatibility, custom item profiles, and enhanced multi-display stability. |
@@ -89,12 +92,30 @@ Need inspiration for a unified, keyboard-centric Mac setup? Here are top modular
 
 ---
 
+## 💖 Support & Sponsorship ☕
+
+Thank you so much for using and exploring this curated macOS utility collection! Maintaining up-to-date documentation, vetting new releases, and verifying ecosystem tools takes continuous time and care. 
+
+If this project made your Mac workflow smoother, faster, or saved you hours of searching:
+- ⭐ **Star this repository** to help other developers find it.
+- 🍴 **Fork and contribute** your favorite missing tools or updates.
+- 📢 **Share** it with your engineering team, design peers, or Mac communities.
+- ☕ **Support the author**: If you'd like to buy me a coffee or support ongoing open-source maintenance, please consider sponsoring via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007). Your support is deeply appreciated!
+
+---
+
 ## 🤝 How to Contribute ✨
 
 1. 🍴 Fork the repository.
 2. 🌿 Create a feature branch (`git checkout -b feature/cool-utility`).
 3. 📝 Add your utility or project matching the existing tabular format and star badge convention.
 4. 🚀 Open a Pull Request with a clear description and links.
+
+---
+
+##  Star History
+#[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Macos-Utilities-Window-Management&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Macos-Utilities-Window-Management&type=date&legend=top-left)
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Macos-Utilities-Window-Management&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Macos-Utilities-Window-Management&type=date&legend=top-left)
 
 ---
 
