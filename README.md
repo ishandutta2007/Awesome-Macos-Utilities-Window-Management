@@ -57,9 +57,9 @@ A definitive comparison of leading commercial macOS window management, screen ca
 
 ## ⭐ Open-Source GitHub Projects 🔓
 
-Curated list of community-driven, transparent, and telemetry-free macOS window managers, menu bar organizers, and desktop utilities. Sorted by GitHub star count in descending order.
+Curated list of community-driven, transparent, and telemetry-free macOS window managers, menu bar organizers, and desktop utilities. Sorted by GitHub Stars_Count in descending order.
 
-| 📦 Repository & Project | ⭐ GitHub Stars | 🏷️ Category | 📝 Description |
+| 📦 Repository & Project | ⭐ GitHub_Stars | 🏷️ Category | 📝 Description |
 | :--- | :--- | :--- | :--- |
 | **[Rectangle](https://github.com/rxhanson/Rectangle)** | <a href="https://github.com/rxhanson/Rectangle/stargazers"><img src="https://img.shields.io/github/stars/rxhanson/Rectangle?style=social&color=white" alt="stars"/></a> | 🪟 Window Snapping | Move and resize windows on macOS with customizable keyboard shortcuts and mouse snap areas. Lightweight, battle-tested, and requires zero SIP changes. |
 | **[Ice](https://github.com/jordanbaird/Ice)** | <a href="https://github.com/jordanbaird/Ice/stargazers"><img src="https://img.shields.io/github/stars/jordanbaird/Ice?style=social&color=white" alt="stars"/></a> | 🍸 Menu Bar Organizer | Powerful, native menu bar manager for macOS. Hide, show, and organize menu bar icons with Ice Bar, hotkeys, custom appearance, and MacBook notch support. |
@@ -108,7 +108,7 @@ If this project made your Mac workflow smoother, faster, or saved you hours of s
 
 1. 🍴 Fork the repository.
 2. 🌿 Create a feature branch (`git checkout -b feature/cool-utility`).
-3. 📝 Add your utility or project matching the existing tabular format and star badge convention.
+3. 📝 Add your utility or project matching the existing tabular format and Stars_Badge convention.
 4. 🚀 Open a Pull Request with a clear description and links.
 
 ---
@@ -123,7 +123,7 @@ If this project made your Mac workflow smoother, faster, or saved you hours of s
 
 * All product names, logos, and brands are property of their respective owners.
 * macOS window managers and menu bar tools utilize accessibility APIs and screen recording permissions. Ensure you only install applications from trusted sources.
-* Star counts and pricing plans reflect current live metrics and may vary over time.
+* Stars_Counts and pricing plans reflect current live metrics and may vary over time.
 
 ---
 
