@@ -57,7 +57,7 @@ A definitive comparison of leading commercial macOS window management, screen ca
 
 ## ⭐ Open-Source GitHub Projects 🔓
 
-Curated list of community-driven, transparent, and telemetry-free macOS window managers, menu bar organizers, and desktop utilities. Sorted by GitHub Stars_Count in descending order.
+Curated list of community-driven, transparent, and telemetry-free macOS window managers, menu bar organizers, and desktop utilities. Sorted by GitHub_Stars_Count in descending order.
 
 | 📦 Repository & Project | ⭐ GitHub_Stars | 🏷️ Category | 📝 Description |
 | :--- | :--- | :--- | :--- |
